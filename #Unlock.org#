@@ -1,0 +1,64 @@
+#+FILETAGS: :Unlock:
+
+* Oppbygning av applikasjon
+
+Typeform lager surveys.
+
+docs: https://www.typeform.com/developers/
+
+
+App farm bygger en API og løsning hos oss.
+
+
+Invites er koblet opp mot mailchimp.
+https://mailchimp.com/integrations/?ds_c=DEPT_AOC_Google_Search_ROET_EN_Brand_Acquire_Exact_MKAG_T2&gclid=EAIaIQobChMIvoTH_Ka7gAMVAgutBh0gew4lEAAYASAAEgKoWPD_BwE&gclsrc=aw.ds
+
+Skaff tilgang til databasen.
+
+Webserver in flask
+https://sachinjose31.medium.com/deploy-a-flask-app-in-azure-web-app-through-visual-studio-code-a5fe4109ba39
+
+* Tasks [0/1]
+
+** TODO Deploy Flask application                                     :Flask:
+SCHEDULED: <2023-08-02 Wed>
+
+
+ - msdocs example app
+
+[[C:\Users\Christian\Projects\Unlock\msdocs-python-flask-webapp-quickstart:app.py] [App]]
+
+This app is based on the example given in [[https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-cli%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli][Deploy Flask/Django]]
+
+For an example of buildin a REST API see the following [[https://auth0.com/blog/developing-restful-apis-with-python-and-flask][article]]
+Run the following command to start web server
+
+#+begin_src shell
+  az webapp up --runtime PYTHON:3.9 --sku F1 --logs
+#+end_src
+
+** TODO Configue Docker                                       :Docker:
+SCHEDULED: <2023-08-02 Wed>
+
+** TODO Run with Poetry and Pyenv
+
+* TODO Access Azure SQL databases                                     :Azure:
+SCHEDULED: <2023-08-02 Wed>
+Need access to Azure keyvault
+*** Using Key vault values
+[[https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-python?tabs=azure-cli][Docs]]
+
+
+
+* TODO Build REST API
+SCHEDULED: <2023-08-02 Wed>
+
+* Møte med AppFarm
+*  TODO Buildt schema for API in marshmallow
+SCHEDULED: <2023-08-02 Wed>
+Based on:
+https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
+
+
+Model mapping tabeller inneholder dataen
+

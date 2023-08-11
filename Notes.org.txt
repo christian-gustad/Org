@@ -1,0 +1,28 @@
+** Azure Data Factory
+Abdulla used [[https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/][Blog]] to get into Azure Data Factory
+
+Useful links
+
+*** [[https://www.cathrinewilhelmsen.net/source-control-azure-data-factory/#continue-reading][Creating pull requests]]
+
+*** [[https://www.cathrinewilhelmsen.net/parameters-azure-data-factory/#continue-reading][Parameters]]
+
+*** [[https://www.cathrinewilhelmsen.net/variables-azure-data-factory/#continue-reading][Variables]]
+Are like parameters, but inside a pipeline, can iterate over using foreach functionallity see next blogpost.
+
+** Azure active directory
+
+
+Resource group inneholder alle komponenter og keyvault for Frøy inne i Azure alt ligger i samme resource group.
+
+** Power BI
+
+Har 3 miljø¸er
+
+** Power Query
+
+** Dev Ops
+
+Azure Dev ops
+
+Holder oversikt over hva vi jobber med.

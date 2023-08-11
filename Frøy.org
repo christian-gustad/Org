@@ -1,0 +1,200 @@
+#+FILETAGS: :Frøy
+
+* Generelt
+Husk å fylle inn hele juli som ferie utenom den siste dagen.
+** Timer
+*** <2023-07-31 Mon>
+3 timer Frøy
+Møter onboarding
+5 timer Unlock
+*** <2023-08-01 Tue>
+
+3 timer.
+Møter onboarding
+5 timer Unlock
+*** <2023-08-02 Wed>
+3 timer Frøy.
+Sprintplanlegging
+5 timer Unlock
+*** <2023-08-03 Thu>
+8 timer Unlock
+*** <2023-08-04 Fri>
+8 timer Unlock
+*** <2023-08-07 Mon>
+8 timer Unlock
+** Organisasjons struktur
+Organisasjons hierarchi det er endel selvstendige bedrifter eid av andre Juridiske enheter.
+
+Alt er eid av Frøy ASA
+
+Send mail til Kristian når endringer skjer i datamodeller osv.
+
+** Frøy T[[c:/Users/Christian/Org/Frøy.org][]]eams
+
+Ligger dokumentasjon i Teams også.
+
+** Sharepoint FrøyData
+https://froygruppen.sharepoint.com/sites/FryData
+
+** Budsjetter
+Feil med budsjettene i Power BI.
+Frøy leverer budsjeter, prognoser og faktiske utgifter.
+
+
+
+* Frøy buissness
+Frøy må levere en årsrapport og bærekraftsrapport
+
+- Disel konverteres til mgo (Marine gas oil) regnes ut i kilo deretter ganges med konstant for å få Co2 fra rein Carbon (C)
+
+  Prosesser
+
+** Frakte fisk
+Fellesbetegneslese er transport av levende fisk.
+
+Det er det Frøy driver med.
+
+Status på turene er gitt i turrapport modellen.
+
+*** Slakte fisk
+
+pr kilo pr nautisk mil er enhet
+
+Kjører brønnbåt - har en full last verdi på 50 millioner kroner
+
+Mær er oppdrett nett, kalles nett på engelsk.
+Not er vill-fisk nett
+
+Suger ut fisken, gjør de målinger.
+
+Sulter fisken før de sender dem på brønnen.
+
+Forsøker å få samme vekt i hver brønn.
+
+Måler oxygen hvert minutt under fraktingen.
+
+Måler metning av salt-mettning
+
+Ankommer slakteriet
+
+Dropper fisken i vente-mære
+
+Oppdretteren gir anslag på gjennomsnittelig vekt per fisk og antall. Gir anslag på antall tonn.
+
+Fyker inn i båten og teller antall fisk og gir anslag på vekt basert på slaktevekt, kilde på avvik. Dette er det Frøy får betalt for, men denne dataen er ikke eid av Frøy.
+
+
+*** Settefisk/smolt - Avling av fisk
+Diskusjon om hvor store de skal være
+
+Lakselusen går på de minste fiskene.
+
+
+
+*** Oppdrettere må registrere død fisk hver dag og rapportere til vetrinær instituttet eller mattylsynet.
+Dødlighet har vært mellom 10-17%
+
+**** Egene produksjon soner på fisk.
+Transport mellom sonene reguleres, dette gjelder brønnbåtene. Må settes i karantene.
+
+Værner for sykdom og er derfor veldig restriktive mellom sonene.
+
+Brønnbåtene kjører med lukkede ventiler i følge forskrifter fra 2014.
+
+**** Time charter/spot/rammeavtale
+
+***** Time charter
+En avtale 5-8 år
+Oppdretere spørr om egene båter for å frakte fisk for spesfikke spesifikasjoner og stiller med båt og mannskap.
+
+De er intressert i ledig kapasitet i båter for å løse time charter oppdrag. Dette er veldig sesong avhengig
+
+Kundene er beskymret for sykdom så de passer på at sykdom ikke sprer seg og holder igjen oppdrag.
+
+***** Spot
+Enkelt avtale
+De ønsker å moniitorer kapasitet på båtene (oppetid) for å gjøre dem tigjenglig for spot avtale.
+
+***** Rammeavtale
+Frøy kan behandle pr. kg biomasse.
+
+** Behandle fisk
+Prosessen skjer mellom brønnene
+Dette er en påkjenning på fisken
+
+Hovedgrupper på å behandle fisk
+Har båtene disse båtene metodene ombord
+Frøy ønsker å vite hvilke av disse prosessene som fungerer.
+
+Vi ønsker å tagge fiskene med hvilke og antall metoder den har blitt behandlet med.
+
+Når båten kommer til ett anlegg, så vet  de ikke hva slags behandling den har fått. Vetrinæren sier når den kommer til behandling så antar de at fisken er svak.
+
+Man skal dokumnetere mest mulig hva  som skjer med fisken, feks. finn ut hvor mye lys den bruker.
+
+Det er fosjellige prosseser
+
+Naviak tar for seg servicene som gir oss data fra Frøy
+
+Bluecontrol skal installeres på alle fartøyene.
+
+Hvor mye bruker man i de forsjellige fasene av en operasjon kan hentes fra bluecontrol.
+
+** TODO Les på [0/2]:
+C:\Users\Christian\Mindshift AS\Fellesdokumenter - Documents\Kunder\Frøy\Prosjekter\Dataplattform og Rapportering\Fartøy Datafangst
+
+*** TODO Brønnbåter  
+
+*** TODO Turrapporter
+** TODO Koble seg opp til Azure og se på bluecontrol lese ut diselforbruk
+
+*** Medikament behandling 
+**** Salmosan
+H2O2 Hydroogen perroksid
+- Lakselus har blitt resistent
+- Skaper problemer når du slipper det ut
+  
+**** Ectosan
+Kjemikalie
+*** Ferskvann behandling
+Lusen tåler ikke ferskvann
+**** AGD amøbe gjeller desise
+
+**** Gjenbruk av FV
+
+**** Thremo
+
+
+*** Mekansik og termisk avlusning
+
+** ESG - Enviorment Social and Governance
+
+** Dataplatform
+
+** Ledelse, Kultur & Endring
+
+Bedskrevet roller og behov.
+
+
+
+** Sprint planlegging
+<2023-08-02 Wed>
+
+*** TODO Les om arbeidstrømmer
+SCHEDULED: <2023-08-02 Wed>
+Brønnbåter har ikke automatisk registrering av turer, mens Naviak har det.
+
+
+*** TODO Rapportering av Brønnbåter sine turer
+SCHEDULED: <2023-08-02 Wed>
+
+- Baser dette på Cflow, RedDx og WingTech, Vaki
+  - Baser dette på blue ctrl data
+
+    Kategorier på turer er avklart for frakt, bønnbåtene og Naviaqm båter
+- Service båter er Naviaqm og Blue ctrl
+- Brønnbåt Filserver og Blue Ctrl
+
+
+*** TODO Skaff data fra båtens filserver
+SCHEDULED: <2023-08-02 Wed>
